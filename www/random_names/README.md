@@ -1,4 +1,5 @@
-# 仙侠小说专有名词随机生成器
+# shopconna 
+仙侠小说专有名词随机生成器
 
 <a title="NPM" href="https://www.npmjs.com/package/random_chinese_fantasy_names" ><img src="https://img.shields.io/npm/v/random_chinese_fantasy_names" /></a>
 
